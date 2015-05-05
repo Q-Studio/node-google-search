@@ -1,0 +1,19 @@
+{
+  "name": "node-google-search",
+  "version": "1.0.0",
+  "description": "google search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Q-Studio/node-google-search.git"
+  },
+  "author": "Carr1005",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Q-Studio/node-google-search/issues"
+  },
+  "homepage": "https://github.com/Q-Studio/node-google-search"
+}
